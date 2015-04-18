@@ -1,0 +1,15 @@
+EXPORTS
+	core_clear
+	core_filter
+	core_get_info
+	core_parse
+	core_parse_exss
+	dcadec_context_clear
+	dcadec_context_create
+	dcadec_context_destroy
+	dcadec_context_filter
+	dcadec_context_free_core_info
+	dcadec_context_free_exss_info
+	dcadec_context_get_core_info
+	dcadec_context_get_exss_info
+	dcadec_context_parse
